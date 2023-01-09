@@ -1,4 +1,4 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+<a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
 <a href=#><img src="https://github.com/shuming1998/shuming1998/blob/main/dist/github-user-contribution.svg"></a>
