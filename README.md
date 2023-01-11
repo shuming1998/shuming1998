@@ -4,7 +4,7 @@
 
 
 
-<div align=center>
+<div align=justify>
 <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif" />
 </div>
 
