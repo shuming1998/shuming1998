@@ -9,5 +9,5 @@
 
 
 
-<center>![image](https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif)
+                                                                                              ![image](https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif)
 
