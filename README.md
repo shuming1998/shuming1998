@@ -1,5 +1,5 @@
 <p align="center"> 
-  &__Visitor count__&<br>
+  &__Visitor Count__&<br>
   <img src="https://profile-counter.glitch.me/shuming1998/count.svg" />
 </p>
 
