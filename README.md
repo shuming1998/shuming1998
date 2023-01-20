@@ -9,9 +9,11 @@
 <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:170px;height:140 px"/>
 <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:170px;height:140 px"/>
 <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:170px;height:140 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:170px;height:140 px"/>
 </div>
 
+<div align=center>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif" style=" width:600px;height:200 px"/>
+</div>
 
 <p align="center"> 
 <a href=#><img src="https://github.com/shuming1998/shuming1998/blob/main/dist/github-user-contribution.svg"></a>
