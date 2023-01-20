@@ -5,7 +5,7 @@
 
 <div align=center>
 <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif" style=" width:300 px;height:200 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:300 px;height:200 px"/>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:200 px;height:200 px"/>
   </div>
 
 <p align="center"> 
