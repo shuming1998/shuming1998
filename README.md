@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/shuming1998/count.svg" />
 </p>
 
-<div align=left>
+<div align=center>
 <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:130px;height:150 px"/>
 <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:130px;height:150 px"/>
 <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:130px;height:150 px"/>
