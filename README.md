@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:100px;height:100px"/>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:400px;height:100px"/>
 </div>
 
 <p align="center"> 
