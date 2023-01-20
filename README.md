@@ -4,13 +4,13 @@
 </p>
 
 <div align=left>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:150px;height:150 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:150px;height:150 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:150px;height:150 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:150px;height:150 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:150px;height:150 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:150px;height:150 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:150px;height:150 px"/>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:140px;height:150 px"/>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:140px;height:150 px"/>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:140px;height:150 px"/>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:140px;height:150 px"/>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:140px;height:150 px"/>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:140px;height:150 px"/>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:140px;height:150 px"/>
 </div>
 
 <div align=center>
