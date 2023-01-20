@@ -4,6 +4,10 @@
 </p>
 
 <div align=center>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:600px;height:200 px"/>
+</div>
+
+<div align=center>
 <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif" style=" width:600px;height:200 px"/>
 </div>
 
