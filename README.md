@@ -1,15 +1,11 @@
 <p align="center"> 
-  &__Visitor Count__&<br>
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/shuming1998/count.svg" />
 </p>
 
 <div align=center>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:130px;height:150 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:130px;height:150 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:130px;height:150 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:130px;height:150 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:130px;height:150 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:130px;height:150 px"/>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:300px;height:300 px"/>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:3000px;height:300 px"/>
 </div>
 
 <div align=center>
