@@ -9,7 +9,7 @@
 </div>
 
 <div align=center>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif" style=" width:600px;height:400 px"/>
+<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif" style=" width:606px;height:400 px"/>
 </div>
 
 <p align="center"> 
