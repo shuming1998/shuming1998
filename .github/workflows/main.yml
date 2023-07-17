@@ -41,8 +41,7 @@ jobs:
 
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git init
-             git status
+      - run: git init && git status
 
       # Push the changes
       - name: Push changes
