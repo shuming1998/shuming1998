@@ -1,14 +1,16 @@
-<style>
-  body {
-    background-color: #0d1117 !important;
-  }
-  .markdown-body {
-    color: #c9d1d9 !important;
-  }
-  .markdown-body a {
-    color: #58a6ff !important;
-  }
-</style>
+<div align="center">
+  <style>
+    body {
+      background-color: #0d1117 !important;
+    }
+    .markdown-body {
+      color: #c9d1d9 !important;
+    }
+    .markdown-body a {
+      color: #58a6ff !important;
+    }
+  </style>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
