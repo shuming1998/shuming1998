@@ -1,10 +1,5 @@
 <p align="center">
-  <!-- 基础统计卡 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuming1998&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</p>
-<p align="center">
-  <!-- 常用语言统计卡 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuming1998&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
 </p>
 
 
