@@ -1,6 +1,6 @@
 <p align="center"> 
   Visitor Count<br>
-  <img src="https://visitcount.itsvgin.com/api?id=shuming1998&label=Profile%20Views&color=0&icon=2&pretty=true" />
+  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=shuming1998" />
 </p>
 
 
