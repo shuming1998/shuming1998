@@ -1,7 +1,10 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=F7F7F7&lines=Hello+World!;I+am+Shuming;Welcome+to+my+GitHub+👽" alt="Typing SVG" />
-  </a>
+  <!-- 基础统计卡 -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuming1998&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</p>
+<p align="center">
+  <!-- 常用语言统计卡 -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuming1998&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 
