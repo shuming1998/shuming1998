@@ -4,9 +4,8 @@
 
 
 <div align=center>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:300px;height:300 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:300px;height:300 px"/>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:300px;height:300 px"/>
+  <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:300px;height:300 px"/>
+  <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/firework.gif" style=" width:300px;height:300 px"/>
 </div>
 
 <p align="center">
@@ -15,7 +14,6 @@
 
 <div align=center>
   <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif" style=" width:604px;height:400 px"/>
-  <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif" style=" width:604px;height:400 px"/>
 </div>
 
 <p align="center">
@@ -23,7 +21,7 @@
 </p>
 
 <p align="center"> 
-<a href=#><img src="https://github.com/shuming1998/shuming1998/blob/main/dist/github-user-contribution.svg"></a>
+  <a href=#><img src="https://github.com/shuming1998/shuming1998/blob/main/dist/github-user-contribution.svg"></a>
 </p>
 
 <p align="center">
