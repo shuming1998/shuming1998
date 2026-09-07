@@ -14,7 +14,8 @@
 </p>
 
 <div align=center>
-<img src="https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif" style=" width:604px;height:400 px"/>
+  <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif" style=" width:604px;height:400 px"/>
+  <img src="https://github.com/shuming1998/shuming1998/blob/main/dist/kaik.gif" style=" width:604px;height:400 px"/>
 </div>
 
 <p align="center">
@@ -26,5 +27,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
