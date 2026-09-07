@@ -1,6 +1,5 @@
 <p align="center"> 
-  Visitor Count<br>
-  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=shuming1998" />
+  <img src="https://stator.cc/githubprofile/shuming1998?theme=dark" alt="stats" />
 </p>
 
 
