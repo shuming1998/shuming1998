@@ -1,5 +1,10 @@
-<p align="center"> 
-  <img src="https://stator.cc/githubprofile/shuming1998?theme=dark" alt="stats" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuming1998&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+</p>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuming1998&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
 </p>
 
 
