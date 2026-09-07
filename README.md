@@ -1,6 +1,6 @@
 <p align="center"> 
   Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/shuming1998/count.svg" />
+  <img src="https://visitcount.itsvgin.com/api?id=shuming1998&label=Profile%20Views&color=0&icon=2&pretty=true" />
 </p>
 
 
