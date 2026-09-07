@@ -1,15 +1,10 @@
 <style>
-  /* 将背景强制设置为深黑色 (如果想要其他颜色，修改 #0d1117 即可) */
   body {
     background-color: #0d1117 !important;
   }
-  
-  /* 【重要】当背景变暗后，必须把字体颜色改成浅色，否则字会看不清 */
   .markdown-body {
     color: #c9d1d9 !important;
   }
-  
-  /* 让链接的颜色也变成亮眼的蓝色 */
   .markdown-body a {
     color: #58a6ff !important;
   }
